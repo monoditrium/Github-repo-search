@@ -2,7 +2,7 @@ from ast import main
 from github import Github
 import csv
 
-token = "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" #paste your token here
+token = "paste the token here" #paste your token here
 
 g = Github(token)
 
