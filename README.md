@@ -15,15 +15,17 @@ the installation should begin and wait until it's complete
 
 # To run the program:
 
-1.Open the program in command prompt
+Open the program in command prompt
 
-2.use the cd command to change the command prompt directory to where the program is
+use the cd command to change the command prompt directory to where the program is
 
-3.type python githubRepo.py to run the program
+type python githubRepo.py to run the program
 
-4.the program will output into a csv file in the same directory
+type the keyword with spaces in between e.g python mongodb
 
-5.the output file is called github_Repo_Output.csv
+the program will output into a csv file in the same directory
+
+the output file is called github_Repo_Output.csv
 
 
 Generating Tokens:
