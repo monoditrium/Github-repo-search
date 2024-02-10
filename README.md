@@ -12,15 +12,20 @@ the installation should begin and wait until it's complete
 
 # To run the program:
 
-Open the program in command prompt\n
+Open the program in command prompt
+
 use the cd command to change the command prompt directory to where the program is\n
-type python githubRepo.py to run the program\n
-the program will output into a csv file in the same directory\n
-the output file is called github_Repo_Output.csv\n
+
+type python githubRepo.py to run the program
+
+the program will output into a csv file in the same directory
+
+the output file is called github_Repo_Output.csv
 
 
 Generating Tokens:
 generate a GitHub token here: https://github.com/settings/tokens
+
 generate the token and make sure to enable access to public repositories
 
 This is a token github uses to authenticate requests for the github REST API
