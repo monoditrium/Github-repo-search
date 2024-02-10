@@ -1,10 +1,7 @@
 # Github-repo-search
 This is a python script using Github REST API to accept keywords and use it to search public repositories on Github
 
-Requirements:
-Python version 3.11.8
-
-PyGitHub
+Requirements:  Python version 3.11.8 and PyGitHub
 
 This script uses PyGitHub, a python library for Github REST API.
 
